@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SunmeetOberoi/SunmeetOberoi/main/banner.png" alt="Profile Banner" width="1000">
+  <img src="https://raw.githubusercontent.com/SunmeetOberoi/SunmeetOberoi/main/banner.png" alt="Profile Banner" width="800">
 </p>
 
 <h1 align="center">Hi there, I'm Sunmeet Oberoi 👋</h1>
